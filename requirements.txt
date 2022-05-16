@@ -1,7 +1,7 @@
 aiohttp==3.8.1
 asyncer==0.0.1
 click==8.0.3
-fastapi
+fastapi<=0.76.0
 filetype==1.0.9
 gdown==4.3.1
 numpy==1.19.5
